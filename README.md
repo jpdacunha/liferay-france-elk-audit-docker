@@ -1,6 +1,6 @@
 # liferay-france-elk-audit-docker
 
-This ELK Docker configuration allows to index Audit events from Liferay to Elasticsearch using logstash. It's can be used to simply start Liferay with ELK
+This ELK Docker configuration allows to index Audit events from Liferay to Elasticsearch using logstash. It's can be simply used to start Liferay with ELK
 
 1 - Copy the Liferay osgi configuration file in <LIFERAY_HOME>/osgi/configs (com.liferay.portal.security.audit.router.configuration.LoggingAuditMessageProcessorConfiguration.config)
 
